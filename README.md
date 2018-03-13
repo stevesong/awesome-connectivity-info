@@ -34,6 +34,14 @@ A list of connectivity indexes and reports to help you better under who has acce
   * latest data from 2016
 * [ITU ICT Development Index](http://www.itu.int/net4/ITU-D/idi/)
 
+## Connectivity Maps
+* [African Undersea Cables](https://manypossibilities.net/african-undersea-cables-interactive/)
+* [African Terrestrial Fibre Optic Infrastructure](https://afterfibre.nsrc.org/)
+* [Africa Bandwidth Maps](http://www.africabandwidthmaps.com/)
+* [Telegeography Submarine Cable Map](https://www.submarinecablemap.com/)
+* [Greg's Cable Map](http://cablemap.info/)
+* [ITU Interactive Transmission Map](http://www.itu.int/itu-d/tnd-map-public/)
+
 ## Periodic Global Connectivity Reports
 * [Mozilla Internet Health Report](https://internethealthreport.org/) 2018
 * [GSMA Mobile Economy](https://www.gsma.com/mobileeconomy/) 2018

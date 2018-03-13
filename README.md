@@ -42,6 +42,9 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [Deloitte - Global mobile consumer trends](https://www2.deloitte.com/global/en/pages/technology-media-and-telecommunications/articles/gx-global-mobile-consumer-trends.html) 2017
 * [A4AI Affordability Report](http://a4ai.org/affordability-report/report/)
   * latest report 2017
+* [Opera State of the Mobile Web 2016](https://blogs.opera.com/news/wp-content/uploads/sites/2/2016/11/SMWAfrica-Opera-report-2016-01-WEB-1.pdf)
+  * report based on Opera Mobile browser use
+  * 2016 appears to be the last one, perhaps due to declining mobile browser use?
 
 ## Regional Connectivity Reports
 * [GSMA Mobile Economy - Africa](https://www.gsma.com/mobileeconomy/africa/) 2016

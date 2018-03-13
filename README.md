@@ -33,6 +33,8 @@ A list of connectivity indexes and reports to help you better under who has acce
   * an elaboration of data ITU, United Nations Population Division, Internet & Mobile Association of India (IAMAI), and World Bank 
   * latest data from 2016
 * [ITU ICT Development Index](http://www.itu.int/net4/ITU-D/idi/)
+  * composite index based on three pillars, ICT Access, ICT Use, and ICT Skills
+  * latest data from 2017
 
 ## Connectivity Maps
 * [African Undersea Cables](https://manypossibilities.net/african-undersea-cables-interactive/)

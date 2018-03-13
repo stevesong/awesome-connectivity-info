@@ -50,3 +50,7 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [Opera - State of the Mobile Web Africa](https://blogs.opera.com/news/wp-content/uploads/sites/2/2016/11/SMWAfrica-Opera-report-2016-01-WEB-1.pdf) 2016
 
 ## Other sources
+* [Facebook Audience Insights](https://www.facebook.com/ads/audience-insights/)
+  * demographic information on Facebook use
+* [SimilarWeb - Mobile App Ranking](https://www.similarweb.com/apps/top/google/app-index/us/all/top-free)
+  * ranking of popular mobile apps across countries

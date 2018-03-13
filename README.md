@@ -3,7 +3,7 @@
 
 A list of connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms. All info in the public domain.
 
-<sub>Check out my [blog](https://manypossibilities.net) and say "hi" on [Twitter](https://twitter.com/stevesong).</sub>
+<sub>More on connectivity on my [website](https://manypossibilities.net) or on [twitter](https://twitter.com/stevesong).</sub>
 
 
 ## Global Connectivity Indexes 

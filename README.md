@@ -8,7 +8,7 @@ A list of connectivity indexes and reports to help you better under who has acce
 
 ## Global Connectivity Indexes 
 
-* [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/)
+* [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) - measures countries against four enablers of mobile internet adoption – infrastructure, affordability, consumer readiness and content. Draws on a [range of sources](https://www.mobileconnectivityindex.com/#year=2016&secondaryMenu=about&id=methodologydatasources)
 * [A4AI Affordability Drivers Index](http://a4ai.org/affordability-report/data/)
 * [Facebook/EIU Inclusive Internet Index](https://theinclusiveinternet.eiu.com/)
 * [Huawei Global Connectivity Index](http://www.huawei.com/minisite/gci/en/)

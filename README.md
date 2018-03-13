@@ -13,6 +13,9 @@ A list of connectivity indexes and reports to help you better under who has acce
   * draws on a [range of sources](https://www.mobileconnectivityindex.com/#year=2016&secondaryMenu=about&id=methodologydatasources)
   * latest version 2016
 * [A4AI Affordability Drivers Index](http://a4ai.org/affordability-report/data/)
+  * developed by the Alliance for Affordable Internet Access
+  * combines a variety of factors to create a composite affordability score
+  * latest version 2017
 * [Facebook/EIU Inclusive Internet Index](https://theinclusiveinternet.eiu.com/) 
   * sponsored by Facebook and developed by the Economist Intelligence Unit
   * index measures Internet connectivity against Availability, Affordability, Relevance and Readiness

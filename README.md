@@ -37,6 +37,8 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [Broadband Commission: The State of Broadband](http://www.broadbandcommission.org/publications/Pages/SOB-2017.aspx) 2017
 * [Ericsson Mobility Report](https://www.ericsson.com/en/mobility-report)
 * [Deloitte - Global mobile consumer trends](https://www2.deloitte.com/global/en/pages/technology-media-and-telecommunications/articles/gx-global-mobile-consumer-trends.html) 2017
+* [A4AI Affordability Report](http://a4ai.org/affordability-report/report/)
+  * latest report 2017
 
 ## Regional Connectivity Reports
 * [GSMA Mobile Economy - Africa](https://www.gsma.com/mobileeconomy/africa/) 2016

@@ -29,6 +29,8 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [Cisco Visual Networking Index](https://www.cisco.com/c/en/us/solutions/service-provider/visual-networking-index-vni/index.html)
 * [ITU Broadband Atlas](https://www.itu.int/ITU-D/treg/atlas/broadbandatlas.asp)
 * [InternetLiveStats](http://www.internetlivestats.com/internet-users-by-country/)
+  * Internet Users by Country
+  * latest data from 2016
 * [ITU ICT Development Index](http://www.itu.int/net4/ITU-D/idi/)
 
 ## Periodic Global Connectivity Reports

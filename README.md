@@ -1,6 +1,10 @@
-# Connectivity Data and Reports
+# Connectivity Data and Reports [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 
 A list of connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms. All info in the public domain.
+
+<sub>Check out my [blog](https://manypossibilities.net) and say "hi" on [Twitter](https://twitter.com/stevesong).</sub>
+
 
 ## Global Connectivity Indexes 
 

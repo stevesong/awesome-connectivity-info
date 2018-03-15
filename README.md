@@ -48,6 +48,7 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [Mozilla Internet Health Report](https://internethealthreport.org/) 2018
 * [GSMA Mobile Economy](https://www.gsma.com/mobileeconomy/) 2018
 * [Broadband Commission: The State of Broadband](http://www.broadbandcommission.org/publications/Pages/SOB-2017.aspx) 2017
+* [ITU Measuring the Information Society](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2017.aspx) 2017
 * [Ericsson Mobility Report](https://www.ericsson.com/en/mobility-report)
 * [Deloitte - Global mobile consumer trends](https://www2.deloitte.com/global/en/pages/technology-media-and-telecommunications/articles/gx-global-mobile-consumer-trends.html) 2017
 * [A4AI Affordability Report](http://a4ai.org/affordability-report/report/)

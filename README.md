@@ -35,6 +35,7 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [ITU ICT Development Index](http://www.itu.int/net4/ITU-D/idi/)
   * composite index based on three pillars, ICT Access, ICT Use, and ICT Skills
   * latest data from 2017
+* [Akamai State of the Internet / Connectivity Report, Q1 2017](https://www.akamai.com/uk/en/multimedia/documents/state-of-the-internet/q1-2017-state-of-the-internet-connectivity-report.pdf)
 
 ## Connectivity Maps
 * [African Undersea Cables](https://manypossibilities.net/african-undersea-cables-interactive/)

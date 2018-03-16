@@ -35,9 +35,10 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [ITU ICT Development Index](http://www.itu.int/net4/ITU-D/idi/)
   * composite index based on three pillars, ICT Access, ICT Use, and ICT Skills
   * latest data from 2017
-* [World Economic Forum - Networked Readiness Index](http://reports.weforum.org/global-information-technology-report-2016/networked-readiness-index/)
-  * 
+* [World Economic Forum - Networked Readiness Index](http://reports.weforum.org/global-information-technology-report-2016/networked-readiness-index/) 
   * latest version 2016
+* [UN E-Government Knowledge Database](https://publicadministration.un.org/egovkb/en-us/Data-Center)
+  * latest data 2016
 
 ## Connectivity Maps
 * [African Undersea Cables](https://manypossibilities.net/african-undersea-cables-interactive/)
@@ -61,6 +62,7 @@ A list of connectivity indexes and reports to help you better under who has acce
   * 2016 appears to be the last one, perhaps due to declining mobile browser use?
 * [Akamai State of the Internet / Connectivity Report](https://www.akamai.com/uk/en/multimedia/documents/state-of-the-internet/q1-2017-state-of-the-internet-connectivity-report.pdf) Q1 2017
 * [World Economic Forum - Global Information Technology Report](http://reports.weforum.org/global-information-technology-report-2016/) 2016
+* [Un E-Government Survey](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2016) 2016
 
 
 ## Regional Connectivity Reports

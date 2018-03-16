@@ -35,6 +35,9 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [ITU ICT Development Index](http://www.itu.int/net4/ITU-D/idi/)
   * composite index based on three pillars, ICT Access, ICT Use, and ICT Skills
   * latest data from 2017
+* [World Economic Forum - Networked Readiness Index](http://reports.weforum.org/global-information-technology-report-2016/networked-readiness-index/)
+  * 
+  * latest version 2016
 
 ## Connectivity Maps
 * [African Undersea Cables](https://manypossibilities.net/african-undersea-cables-interactive/)
@@ -53,10 +56,12 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [Deloitte - Global mobile consumer trends](https://www2.deloitte.com/global/en/pages/technology-media-and-telecommunications/articles/gx-global-mobile-consumer-trends.html) 2017
 * [A4AI Affordability Report](http://a4ai.org/affordability-report/report/)
   * latest report 2017
-* [Opera State of the Mobile Web 2016](https://blogs.opera.com/news/wp-content/uploads/sites/2/2016/11/SMWAfrica-Opera-report-2016-01-WEB-1.pdf)
+* [Opera State of the Mobile Web](https://blogs.opera.com/news/wp-content/uploads/sites/2/2016/11/SMWAfrica-Opera-report-2016-01-WEB-1.pdf) 2016
   * report based on Opera Mobile browser use
   * 2016 appears to be the last one, perhaps due to declining mobile browser use?
 * [Akamai State of the Internet / Connectivity Report](https://www.akamai.com/uk/en/multimedia/documents/state-of-the-internet/q1-2017-state-of-the-internet-connectivity-report.pdf) Q1 2017
+* [World Economic Forum - Global Information Technology Report](http://reports.weforum.org/global-information-technology-report-2016/) 2016
+
 
 ## Regional Connectivity Reports
 * [GSMA Mobile Economy - Africa](https://www.gsma.com/mobileeconomy/africa/) 2016

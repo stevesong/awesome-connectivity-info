@@ -56,7 +56,8 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [Opera State of the Mobile Web 2016](https://blogs.opera.com/news/wp-content/uploads/sites/2/2016/11/SMWAfrica-Opera-report-2016-01-WEB-1.pdf)
   * report based on Opera Mobile browser use
   * 2016 appears to be the last one, perhaps due to declining mobile browser use?
-* [Akamai State of the Internet / Connectivity Report, Q1 2017](https://www.akamai.com/uk/en/multimedia/documents/state-of-the-internet/q1-2017-state-of-the-internet-connectivity-report.pdf)
+* [Akamai State of the Internet / Connectivity Report](https://www.akamai.com/uk/en/multimedia/documents/state-of-the-internet/q1-2017-state-of-the-internet-connectivity-report.pdf) Q1 2017
+* [Annual Review of African Telecommunications Infrastructure Development @manypossibilities.net](https://manypossibilities.net/series/africa-telecom-infrastructure/) 2017
 
 ## Regional Connectivity Reports
 * [GSMA Mobile Economy - Africa](https://www.gsma.com/mobileeconomy/africa/) 2016

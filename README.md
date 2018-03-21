@@ -44,7 +44,8 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [African Undersea Cables](https://manypossibilities.net/african-undersea-cables-interactive/)
 * [African Terrestrial Fibre Optic Infrastructure](https://afterfibre.nsrc.org/)
 * [Africa Bandwidth Maps](http://www.africabandwidthmaps.com/)
-* [Telegeography Submarine Cable Map](https://www.submarinecablemap.com/)
+* [Telegeography Interactive Submarine Cable Map](https://www.submarinecablemap.com/)
+* [Telegeography 2018 Submarine Cable Map](http://submarine-cable-map-2018.telegeography.com/)
 * [Greg's Cable Map](http://cablemap.info/)
 * [ITU Interactive Transmission Map](http://www.itu.int/itu-d/tnd-map-public/)
 

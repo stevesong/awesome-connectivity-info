@@ -48,6 +48,7 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [Telegeography 2018 Submarine Cable Map](http://submarine-cable-map-2018.telegeography.com/)
 * [Greg's Cable Map](http://cablemap.info/)
 * [ITU Interactive Transmission Map](http://www.itu.int/itu-d/tnd-map-public/)
+* [GSMA Mobile Coverage Maps @ Mobile World Live](http://maps.mobileworldlive.com/)
 
 ## Periodic Global Connectivity Reports
 * [Mozilla Internet Health Report](https://internethealthreport.org/) 2018

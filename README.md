@@ -67,12 +67,15 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [Un E-Government Survey](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2016) 2016
 
 
-## Regional Connectivity Reports
+## Regional Connectivity Reports and Data
 * [GSMA Mobile Economy - Africa](https://www.gsma.com/mobileeconomy/africa/) 2016
 * [GSMA Mobile Economy - Sub-Saharan Africa](https://www.gsma.com/mobileeconomy/sub-saharan-africa-2017/) 2017
 * [GSMA Mobile Economy - West Africa](https://www.gsma.com/mobileeconomy/west-africa/) 2017
 * [Opera - State of the Mobile Web Africa](https://blogs.opera.com/news/wp-content/uploads/sites/2/2016/11/SMWAfrica-Opera-report-2016-01-WEB-1.pdf) 2016
 * [African Telecommunications Infrastructure Development @manypossibilities.net](https://manypossibilities.net/series/africa-telecom-infrastructure/) 2017
+* [RIA Africa Mobile Pricing (RAMP) Indices Portal](https://researchictafrica.net/ramp_indices_portal/)
+  * Pricing information on Voice/SMS basket, 1GB data basket, and Value For Money bundles
+  * Lastest data from 2017
 
 ## Other sources
 * [Facebook Audience Insights](https://www.facebook.com/ads/audience-insights/)

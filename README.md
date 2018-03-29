@@ -82,8 +82,12 @@ A list of connectivity indexes and reports to help you better under who has acce
   * Regulatory and policy recommendations to foster mobile broadband coverage in developing countries
 * [Facebook Audience Insights](https://www.facebook.com/ads/audience-insights/)
   * demographic information on Facebook use
+  * Facebook account required
 * [SimilarWeb - Mobile App Ranking](https://www.similarweb.com/apps/top/google/app-index/us/all/top-free)
   * ranking of popular mobile apps across countries
 * [Global Mobile Suppliers Association](https://gsacom.com/)
   * various reports on LTE and 5G adoption
   * many reports are free but site requires registration
+* [Social Bakers Regional Reports](https://www.socialbakers.com/resources/reports/)
+  * country reports on social media use
+  * high levels statistics for free with paid options

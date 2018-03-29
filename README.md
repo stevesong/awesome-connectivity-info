@@ -78,6 +78,8 @@ A list of connectivity indexes and reports to help you better under who has acce
   * Lastest data from 2017
 
 ## Other sources
+* [GSMA - Enabling Rural Coverage](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/02/Enabling_Rural_Coverage_English_February_2018.pdf) Feb 2018
+  * Regulatory and policy recommendations to foster mobile broadband coverage in developing countries
 * [Facebook Audience Insights](https://www.facebook.com/ads/audience-insights/)
   * demographic information on Facebook use
 * [SimilarWeb - Mobile App Ranking](https://www.similarweb.com/apps/top/google/app-index/us/all/top-free)

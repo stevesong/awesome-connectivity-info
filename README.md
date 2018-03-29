@@ -76,6 +76,9 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [RIA Africa Mobile Pricing (RAMP) Indices Portal](https://researchictafrica.net/ramp_indices_portal/)
   * Pricing information on Voice/SMS basket, 1GB data basket, and Value For Money bundles
   * Lastest data from 2017
+* [Open Signal - State of Mobile Networks Reports](http://opensignal.com/reports/)
+  * covers a poupourii of countries based on OpenSignal data gathering
+  * open does not describe the data they collect
 
 ## Other sources
 * [GSMA - Enabling Rural Coverage](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/02/Enabling_Rural_Coverage_English_February_2018.pdf) Feb 2018

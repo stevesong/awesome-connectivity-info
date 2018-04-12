@@ -51,7 +51,7 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [GSMA Mobile Coverage Maps @ Mobile World Live](http://maps.mobileworldlive.com/)
 
 ## Periodic Global Connectivity Reports
-* [Mozilla Internet Health Report](https://internethealthreport.org/) 2018
+* [Mozilla Internet Health Report](https://internethealthreport.org/2018/) 2018
 * [GSMA Mobile Economy](https://www.gsma.com/mobileeconomy/) 2018
 * [Broadband Commission: The State of Broadband](http://www.broadbandcommission.org/publications/Pages/SOB-2017.aspx) 2017
 * [ITU Measuring the Information Society](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2017.aspx) 2017

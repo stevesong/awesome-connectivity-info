@@ -94,3 +94,5 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [Social Bakers Regional Reports](https://www.socialbakers.com/resources/reports/)
   * country reports on social media use
   * high levels statistics for free with paid options
+* [CIESIN Earth Institute - High Resolution Settlement Layer GIS data](https://ciesin.columbia.edu/data/hrsl/)
+  * developed in partnership with Facebook, the CIESIN HRSL datasets offer unprecedented accuracy in population mapping which is vital information in understanding who is covered by voice and data services and who is not.

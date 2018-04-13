@@ -39,6 +39,9 @@ A list of connectivity indexes and reports to help you better under who has acce
   * latest version 2016
 * [UN E-Government Knowledge Database](https://publicadministration.un.org/egovkb/en-us/Data-Center)
   * latest data 2016
+* [BCG e-Intensity Index](https://www.bcg.com/publications/interactives/bcg-e-intensity-index.aspx) 2015
+  * Index developed by Boston Consulting Group looking at the maturity of 85 Internet economies
+  * The index measures maturity against three vectors, Enablement, Engagement, and Expenditure.
 
 ## Connectivity Maps
 * [African Undersea Cables](https://manypossibilities.net/african-undersea-cables-interactive/)
@@ -79,6 +82,9 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [Open Signal - State of Mobile Networks Reports](http://opensignal.com/reports/)
   * covers a poupourii of countries based on OpenSignal data gathering
   * open does not describe the data they collect
+* [Lions go digital: The Internet’s transformative potential in Africa](https://www.mckinsey.com/industries/high-tech/our-insights/lions-go-digital-the-internets-transformative-potential-in-africa) 2013
+  * Report by global consulting firm McKinsey on the potential impact of the Internet in Africa
+
 
 ## Other sources
 * [GSMA - Enabling Rural Coverage](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/02/Enabling_Rural_Coverage_English_February_2018.pdf) Feb 2018

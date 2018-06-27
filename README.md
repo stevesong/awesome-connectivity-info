@@ -52,6 +52,7 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [Greg's Cable Map](http://cablemap.info/)
 * [ITU Interactive Transmission Map](http://www.itu.int/itu-d/tnd-map-public/)
 * [GSMA Mobile Coverage Maps @ Mobile World Live](http://maps.mobileworldlive.com/)
+* [Hurricane Electric 3D map of undersea cables and HE POPs and routes](http://he.net/3d-map/)
 
 ## Periodic Global Connectivity Reports
 * [Mozilla Internet Health Report](https://internethealthreport.org/2018/) 2018

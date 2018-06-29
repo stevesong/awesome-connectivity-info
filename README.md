@@ -69,6 +69,7 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [Akamai State of the Internet / Connectivity Report](https://www.akamai.com/uk/en/multimedia/documents/state-of-the-internet/q1-2017-state-of-the-internet-connectivity-report.pdf) Q1 2017
 * [World Economic Forum - Global Information Technology Report](http://reports.weforum.org/global-information-technology-report-2016/) 2016
 * [Un E-Government Survey](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2016) 2016
+* [OECD Broadband Portal](https://www.oecd.org/internet/broadband/broadband-statistics/) Latest data update: 28 June 2018
 
 
 ## Regional Connectivity Reports and Data

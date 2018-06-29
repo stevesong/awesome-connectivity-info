@@ -42,6 +42,8 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [BCG e-Intensity Index](https://www.bcg.com/publications/interactives/bcg-e-intensity-index.aspx) 2015
   * Index developed by Boston Consulting Group looking at the maturity of 85 Internet economies
   * The index measures maturity against three vectors, Enablement, Engagement, and Expenditure.
+* [Speedtest Global Index](http://www.speedtest.net/global-index) May 2018
+  * Ranking mobile and fixed broadband speeds from around the world on a monthly basis. Click on a location for more local analysis.
 
 ## Connectivity Maps
 * [African Undersea Cables](https://manypossibilities.net/african-undersea-cables-interactive/)

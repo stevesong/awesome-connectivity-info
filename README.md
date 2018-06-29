@@ -43,7 +43,7 @@ A list of connectivity indexes and reports to help you better under who has acce
   * Index developed by Boston Consulting Group looking at the maturity of 85 Internet economies
   * The index measures maturity against three vectors, Enablement, Engagement, and Expenditure.
 * [Speedtest Global Index](http://www.speedtest.net/global-index) May 2018
-  * Ranking mobile and fixed broadband speeds from around the world on a monthly basis. Click on a location for more local analysis.
+  * Ranking mobile and fixed broadband speeds from around the world on a monthly basis. 
 
 ## Connectivity Maps
 * [African Undersea Cables](https://manypossibilities.net/african-undersea-cables-interactive/)
@@ -55,6 +55,7 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [ITU Interactive Transmission Map](http://www.itu.int/itu-d/tnd-map-public/)
 * [GSMA Mobile Coverage Maps @ Mobile World Live](http://maps.mobileworldlive.com/)
 * [Hurricane Electric 3D map of undersea cables and HE POPs and routes](http://he.net/3d-map/)
+* [OECD - National Broadband Maps](http://www2.compareyourcountry.org/broadband)
 
 ## Periodic Global Connectivity Reports
 * [Mozilla Internet Health Report](https://internethealthreport.org/2018/) 2018

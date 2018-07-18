@@ -111,5 +111,8 @@ A list of connectivity indexes and reports to help you better under who has acce
   * high levels statistics for free with paid options
 * [CIESIN Earth Institute - High Resolution Settlement Layer GIS data](https://ciesin.columbia.edu/data/hrsl/)
   * developed in partnership with Facebook, the CIESIN HRSL datasets offer unprecedented accuracy in population mapping which is vital information in understanding who is covered by voice and data services and who is not.
-* [Kleiner Perkins Mary Meeker Internet Trends Report](https://www.kleinerperkins.com/file/2018-internet-trends-report) 2018
-  * Trends that affect and drive internet uptake globally.
+* [Kleiner Perkins Mary Meeker Internet Trends Report](https://www.kleinerperkins.com/file/2018-internet-trends-report) May 2018
+  * trends that affect and drive internet uptake globally.
+* [WEF Internet for All](https://www.weforum.org/reports/internet-for-all-a-framework-for-accelerating-internet-access-and-adoption/) 2016
+  * A Framework for Accelerating Internet Access and Adoption
+  * this document, part of the Access/Adoption pillar within the World Economic Forum’s Global Challenge initiative on the Future of the Internet, provides a common framework for addressing the barriers related to achieving an internet for all

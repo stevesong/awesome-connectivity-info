@@ -32,6 +32,8 @@ A list of connectivity indexes and reports to help you better under who has acce
   * Internet Users by Country
   * an elaboration of data ITU, United Nations Population Division, Internet & Mobile Association of India (IAMAI), and World Bank 
   * latest data from 2016
+* [Internet World Stats](https://www.internetworldstats.com/)
+  * IWS defines an Internet User as anyone currently in capacity to use the Internet. 
 * [ITU ICT Development Index](http://www.itu.int/net4/ITU-D/idi/)
   * composite index based on three pillars, ICT Access, ICT Use, and ICT Skills
   * latest data from 2017

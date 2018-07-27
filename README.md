@@ -104,6 +104,8 @@ A list of connectivity indexes and reports to help you better under who has acce
   * Facebook account required
 * [SimilarWeb - Mobile App Ranking](https://www.similarweb.com/apps/top/google/app-index/us/all/top-free)
   * ranking of popular mobile apps across countries
+* [ Global Stats by StatCounter](http://gs.statcounter.com/)
+  * browser market share over time by browser, region, OS
 * [Global Mobile Suppliers Association](https://gsacom.com/)
   * various reports on LTE and 5G adoption
   * many reports are free but site requires registration

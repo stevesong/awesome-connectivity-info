@@ -77,6 +77,8 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [World Economic Forum - Global Information Technology Report](http://reports.weforum.org/global-information-technology-report-2016/) 2016
 * [Un E-Government Survey](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2016) 2016
 * [OECD Broadband Portal](https://www.oecd.org/internet/broadband/broadband-statistics/) Latest data update: 28 June 2018
+* [AfterAccess - Mobile & Internet Use in the Global South](http://afteraccess.net/wp-content/uploads/After-Access-Website-layout-r1.pdf)
+  * Infographic highlights of nationally representative surveys of ICT access and use by households and individuals in the public domain in 16 developing countries of the Global South
 
 
 ## Regional Connectivity Reports and Data

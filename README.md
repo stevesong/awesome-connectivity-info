@@ -119,3 +119,6 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [WEF Internet for All](https://www.weforum.org/reports/internet-for-all-a-framework-for-accelerating-internet-access-and-adoption/) 2016
   * A Framework for Accelerating Internet Access and Adoption
   * this document, part of the Access/Adoption pillar within the World Economic Forum’s Global Challenge initiative on the Future of the Internet, provides a common framework for addressing the barriers related to achieving an internet for all
+* [M-Lab Visualization Platform](https://viz.measurementlab.net/)
+  * M-Lab is an open, verifiable measurement platform for global network performance
+  * a partnership between New America’s [Open Technology Institute](https://www.newamerica.org/oti/), [Google Open Source](https://opensource.google.com/) Research, Princeton University’s [PlanetLab](https://www.planet-lab.org/) and other supporting partners.

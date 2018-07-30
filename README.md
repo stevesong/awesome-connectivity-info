@@ -59,6 +59,7 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [GSMA Mobile Coverage Maps @ Mobile World Live](http://maps.mobileworldlive.com/)
 * [Hurricane Electric 3D map of undersea cables and HE POPs and routes](http://he.net/3d-map/)
 * [OECD - National Broadband Maps](http://www2.compareyourcountry.org/broadband)
+* [GSMA Mobile Network Coverage Maps](https://www.mobilecoveragemaps.com) 2018 currently only Tanzania & Côte d’Ivoire
 
 ## Periodic Global Connectivity Reports
 * [Mozilla Internet Health Report](https://internethealthreport.org/2018/) 2018

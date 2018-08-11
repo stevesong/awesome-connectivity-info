@@ -125,3 +125,6 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [M-Lab Visualization Platform](https://viz.measurementlab.net/)
   * M-Lab is an open, verifiable measurement platform for global network performance
   * a partnership between New America’s [Open Technology Institute](https://www.newamerica.org/oti/), [Google Open Source](https://opensource.google.com/) Research, Princeton University’s [PlanetLab](https://www.planet-lab.org/) and other supporting partners.
+* [Oracle Cloud Infrastructure's Internet Intelligence Map](https://internetintel.oracle.com/about.html) 
+  * Interactive map reporting issues that impact the performance of the Internet
+  * Oracle Cloud Infrastucture, formerly Dyn Research

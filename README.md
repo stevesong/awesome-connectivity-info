@@ -16,6 +16,8 @@ A list of connectivity indexes and reports to help you better under who has acce
   * developed by the Alliance for Affordable Internet Access
   * combines a variety of factors to create a composite affordability score
   * latest version 2017
+* [A4AI Mobile Broadband Data Costs](https://a4ai.org/mobile-broadband-pricing-data/)
+  * Price of Broadband Data (1GB mobile prepaid) as % of GNI per capita (2015-2017)
 * [Facebook/EIU Inclusive Internet Index](https://theinclusiveinternet.eiu.com/) 
   * sponsored by Facebook and developed by the Economist Intelligence Unit
   * index measures Internet connectivity against Availability, Affordability, Relevance and Readiness

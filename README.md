@@ -72,7 +72,7 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [Ericsson Mobility Report](https://www.ericsson.com/en/mobility-report) [June 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-june-2018.pdf)
 * [Deloitte - Global mobile consumer trends](https://www2.deloitte.com/global/en/pages/technology-media-and-telecommunications/articles/gx-global-mobile-consumer-trends.html) 2017
 * [A4AI Affordability Report](http://a4ai.org/affordability-report/report/)
-  * latest report 2017
+  * [2018](http://1e8q3q16vyc81g8l3h3md6q5f5e-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/A4AI-2018-Affordability-Report.pdf) [2017](http://a4ai.org/affordability-report/report/2017)
 * [Opera State of the Mobile Web](https://blogs.opera.com/news/wp-content/uploads/sites/2/2016/11/SMWAfrica-Opera-report-2016-01-WEB-1.pdf) 2016
   * report based on Opera Mobile browser use
   * 2016 appears to be the last one, perhaps due to declining mobile browser use?

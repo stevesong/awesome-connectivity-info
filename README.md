@@ -61,7 +61,7 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [GSMA Mobile Coverage Maps @ Mobile World Live](http://maps.mobileworldlive.com/)
 * [Hurricane Electric 3D map of undersea cables and HE POPs and routes](http://he.net/3d-map/)
 * [OECD - National Broadband Maps](http://www2.compareyourcountry.org/broadband)
-* [GSMA Mobile Network Coverage Maps](https://www.mobilecoveragemaps.com) 2018 currently only Tanzania & Côte d’Ivoire
+* [GSMA Mobile Network Coverage Maps](https://www.mobilecoveragemaps.com) 2018 currently Côte d’Ivoire, Nigeria, and Tanzania
 
 ## Periodic Global Connectivity Reports
 * [Mozilla Internet Health Report](https://internethealthreport.org/2018/) 2018
@@ -130,3 +130,5 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [Oracle Cloud Infrastructure's Internet Intelligence Map](https://internetintel.oracle.com/about.html) 
   * Interactive map reporting issues that impact the performance of the Internet
   * Oracle Cloud Infrastucture, formerly Dyn Research
+* [LTE, WiMAX, HSPA+, 3G, GSM information by country ](https://www.worldtimezone.com/4g.html)
+  * not clear exactly why but www.worldtimezone.com maintain a reasonably up-to-date list of mobile networks around the world and their associated technologies/frequenies ar

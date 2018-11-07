@@ -131,4 +131,4 @@ A list of connectivity indexes and reports to help you better under who has acce
   * Interactive map reporting issues that impact the performance of the Internet
   * Oracle Cloud Infrastucture, formerly Dyn Research
 * [LTE, WiMAX, HSPA+, 3G, GSM information by country ](https://www.worldtimezone.com/4g.html)
-  * not clear exactly why but www.worldtimezone.com maintain a reasonably up-to-date list of mobile networks around the world and their associated technologies/frequenies ar
+  * not clear exactly why but www.worldtimezone.com maintain a reasonably up-to-date list of mobile networks around the world and their associated frequencies

@@ -4,14 +4,13 @@ A list of connectivity indexes and reports to help you better under who has acce
 
 <sub>More on connectivity on my [website](https://manypossibilities.net) or on [twitter](https://twitter.com/stevesong).</sub>
 
---------------------
-- List of Resources
+## Contents
   - [Global Connectivity Indexes](#global-connectivity-indexes)
   - [Connectivity Maps](#connectivity-maps)
   - [Periodic Global Connectivity Reports](#periodic-global-connectivity-reports)
   - [Regional Connectivity Reports and Data](#regional-connectivity-reports-and-data)
   - [Other sources](#other-sources)
---------------------
+
 
 <!-- BEGIN RESOURCE LIST -->
 

@@ -59,6 +59,7 @@ A list of connectivity indexes and reports to help you better under who has acce
   - The index measures maturity against three vectors, Enablement, Engagement, and Expenditure.
 - [Speedtest Global Index](http://www.speedtest.net/global-index) - May 2018.
   - Ranking mobile and fixed broadband speeds from around the world on a monthly basis. 
+- [cable.co.uk's Worldwide Broadband Price Comparison](https://www.cable.co.uk/broadband/deals/worldwide-price-comparison/) - 2018. Index of broadband costs around the world based on fixed line/wireless access.  Many African countries excluded.
 
 ## Connectivity Maps
 

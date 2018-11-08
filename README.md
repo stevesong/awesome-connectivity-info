@@ -1,12 +1,23 @@
 # Connectivity Data and Reports [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-
 A list of connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms. All info in the public domain.
 
 <sub>More on connectivity on my [website](https://manypossibilities.net) or on [twitter](https://twitter.com/stevesong).</sub>
 
+--------------------
+- List of Resources
+  - [Global Connectivity Indexes](#global-connectivity-indexes)
+  - [Connectivity Maps](#connectivity-maps)
+  - [Periodic Global Connectivity Reports](#periodic-global-connectivity-reports)
+  - [Regional Connectivity Reports and Data](#regional-connectivity-reports-and-data)
+  - [Other sources](#other-sources)
+--------------------
+
+<!-- BEGIN RESOURCE LIST -->
 
 ## Global Connectivity Indexes 
+
+**[`^        back to top        ^`](#)**
 
 * [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) 
   * measures countries against four enablers of mobile internet adoption – Infrastructure, Affordability, Consumer Readiness and Content
@@ -51,6 +62,9 @@ A list of connectivity indexes and reports to help you better under who has acce
   * Ranking mobile and fixed broadband speeds from around the world on a monthly basis. 
 
 ## Connectivity Maps
+
+**[`^        back to top        ^`](#)**
+
 * [African Undersea Cables](https://manypossibilities.net/african-undersea-cables-interactive/)
 * [African Terrestrial Fibre Optic Infrastructure](https://afterfibre.nsrc.org/)
 * [Africa Bandwidth Maps](http://www.africabandwidthmaps.com/)
@@ -64,6 +78,9 @@ A list of connectivity indexes and reports to help you better under who has acce
 * [GSMA Mobile Network Coverage Maps](https://www.mobilecoveragemaps.com) 2018 currently Côte d’Ivoire, Nigeria, and Tanzania
 
 ## Periodic Global Connectivity Reports
+
+**[`^        back to top        ^`](#)**
+
 * [Mozilla Internet Health Report](https://internethealthreport.org/2018/) 2018
 * [GSMA Mobile Economy](https://www.gsma.com/mobileeconomy/) 2018
 * Broadband Commission: The State of Broadband ([2018](https://www.broadbandcommission.org/publications/Pages/SOB-2018.aspx))  ([2017](http://www.broadbandcommission.org/publications/Pages/SOB-2017.aspx))
@@ -85,6 +102,9 @@ A list of connectivity indexes and reports to help you better under who has acce
 
 
 ## Regional Connectivity Reports and Data
+
+**[`^        back to top        ^`](#)**
+
 * [GSMA Mobile Economy - Sub-Saharan Africa](https://www.gsma.com/mobileeconomy/sub-saharan-africa/) 2018
 * [GSMA Mobile Economy - West Africa](https://www.gsma.com/mobileeconomy/west-africa/) 2017
 * [African Telecommunications Infrastructure Development @manypossibilities.net](https://manypossibilities.net/series/africa-telecom-infrastructure/) 2017
@@ -102,6 +122,9 @@ A list of connectivity indexes and reports to help you better under who has acce
 
 
 ## Other sources
+
+**[`^        back to top        ^`](#)**
+
 * [GSMA - Enabling Rural Coverage](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/02/Enabling_Rural_Coverage_English_February_2018.pdf) Feb 2018
   * Regulatory and policy recommendations to foster mobile broadband coverage in developing countries
 * [Facebook Audience Insights](https://www.facebook.com/ads/audience-insights/)
@@ -132,3 +155,5 @@ A list of connectivity indexes and reports to help you better under who has acce
   * Oracle Cloud Infrastucture, formerly Dyn Research
 * [LTE, WiMAX, HSPA+, 3G, GSM information by country ](https://www.worldtimezone.com/4g.html)
   * not clear exactly why but www.worldtimezone.com maintain a reasonably up-to-date list of mobile networks around the world and their associated frequencies
+  
+<!-- END RESOURCE LIST -->  

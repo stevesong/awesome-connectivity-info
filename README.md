@@ -86,7 +86,7 @@ A list of connectivity indexes and reports to help you better under who has acce
 - Broadband Commission: The State of Broadband ([2018](https://www.broadbandcommission.org/publications/Pages/SOB-2018.aspx))  ([2017](http://www.broadbandcommission.org/publications/Pages/SOB-2017.aspx))
 - [ITU Measuring the Information Society](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2017.aspx) - 2017.
 - [ITU Facts and Figures](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ICTFactsFigures2017.pdf) - 2017.
-- [Ericsson Mobility Report](https://www.ericsson.com/en/mobility-report) - [June 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-june-2018.pdf).
+- [Ericsson Mobility Report](https://www.ericsson.com/en/mobility-report) - [November 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-november-2018.pdf) [June 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-june-2018.pdf).
 - [Deloitte - Global mobile consumer trends](https://www2.deloitte.com/global/en/pages/technology-media-and-telecommunications/articles/gx-global-mobile-consumer-trends.html) - 2017.
 - [A4AI Affordability Report](http://a4ai.org/affordability-report/report/)
   - [2018](http://1e8q3q16vyc81g8l3h3md6q5f5e-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/A4AI-2018-Affordability-Report.pdf) [2017](http://a4ai.org/affordability-report/report/2017)

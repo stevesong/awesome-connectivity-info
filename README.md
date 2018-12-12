@@ -84,7 +84,7 @@ A list of connectivity indexes and reports to help you better under who has acce
 - [Mozilla Internet Health Report](https://internethealthreport.org/2018/) - 2018.
 - [GSMA Mobile Economy](https://www.gsma.com/mobileeconomy/) - 2018.
 - Broadband Commission: The State of Broadband ([2018](https://www.broadbandcommission.org/publications/Pages/SOB-2018.aspx))  ([2017](http://www.broadbandcommission.org/publications/Pages/SOB-2017.aspx))
-- [ITU Measuring the Information Society](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2017.aspx) - 2017.
+- ITU Measuring the Information Society - ([2018](https://www.itu.int/en/ITU-D/Statistics/Documents/events/wtis2018/MISR-2018-Vol-1-E.PDF))  ([2017](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2017.aspx))
 - [ITU Facts and Figures](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ICTFactsFigures2017.pdf) - 2017.
 - [Ericsson Mobility Report](https://www.ericsson.com/en/mobility-report) - [November 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-november-2018.pdf) [June 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-june-2018.pdf).
 - [Deloitte - Global mobile consumer trends](https://www2.deloitte.com/global/en/pages/technology-media-and-telecommunications/articles/gx-global-mobile-consumer-trends.html) - 2017.

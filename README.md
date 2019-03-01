@@ -5,7 +5,7 @@
   <br>
 </div>
 
-# Connectivity Data and Reports [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A list of connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms. All info in the public domain.
 

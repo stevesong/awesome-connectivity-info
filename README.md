@@ -110,7 +110,7 @@ A list of connectivity indexes and reports to help you better under who has acce
 - [African Telecommunications Infrastructure Development @manypossibilities.net](https://manypossibilities.net/series/africa-telecom-infrastructure/) - 2017.
 - [GSMA Mobile Economy - Africa](https://www.gsma.com/mobileeconomy/africa/) - 2016.
 - [Opera - State of the Mobile Web Africa](https://blogs.opera.com/news/wp-content/uploads/sites/2/2016/11/SMWAfrica-Opera-report-2016-01-WEB-1.pdf) - 2016.
-- [Ericsson Mobility Report - Sub-Saharan Africa](https://www.ericsson.com/res/docs/2015/mobility-report/emr-nov-2015-regional-report-sub-saharan-africa.pdf) - 2015.
+- [Ericsson Mobility Report - Sub-Saharan Africa](https://manypossibilities.net/report-archives/EricssonMobilityReport-nov-2015-regional-report-sub-saharan-africa.pdf) - 2015.
 - [RIA Africa Mobile Pricing (RAMP) Indices Portal](https://researchictafrica.net/ramp_indices_portal/) - Pricing information on Voice/SMS basket, 1GB data basket, and Value For Money bundles.
   - Lastest data from 2017
 - [Open Signal - State of Mobile Networks Reports](http://opensignal.com/reports/) - Report covers a poupourii of countries based on OpenSignal data gathering.

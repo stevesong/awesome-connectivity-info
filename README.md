@@ -1,9 +1,10 @@
 <div align="center">
   <img width="605" height="495" src="images/awesome-connectivity-logo.svg" alt="Awesome Connectivity Logo">
   <br>
-  <sup>Inspired by Sindre Sorhus's [awesome list](https://awesome.re) of awesome lists</sup>
+  <sup>Inspired by Sindre Sorhus's <a href="https://awesome.re">awesome list</a> of awesome lists</sup>
   <br>
 </div>
+
 # Connectivity Data and Reports [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A list of connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms. All info in the public domain.

@@ -42,8 +42,8 @@ You'll need a [GitHub account](https://github.com/join)!
 1. Access the awesome list's GitHub page at https://github.com/stevesong/awesome-connectivity-info
 2. Click on the `readme.md` file: ![Step 2 Click on Readme.md](https://user-images.githubusercontent.com/857180/53660775-0c5f0d80-3c35-11e9-843e-4f3931dabe36.png)
 3. Now click on the edit icon. ![Step 3 - Click on Edit](https://user-images.githubusercontent.com/857180/53661005-b048b900-3c35-11e9-9a96-33a4765c7006.png)
-4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). ![Step 4 - Edit the file](https://cloud.githubusercontent.com/assets/170270/9402932/7301c3a0-480c-11e5-81f5-7e343b71674f.png)
-5. Say why you're proposing the changes, and then click on "Propose file change". ![Step 5 - Propose Changes](https://cloud.githubusercontent.com/assets/170270/9402937/7dd0652a-480c-11e5-9138-bd14244593d5.png)
+4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). 
+5. Say why you're proposing the changes, and then click on "Propose file change". 
 6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
 
 If you are not comfortable with Github, you can also email me a link and description at steve@manypossibilities.net

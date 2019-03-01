@@ -38,16 +38,16 @@ A list of connectivity indexes and reports to help you better under who has acce
 
 **[`^        back to top        ^`](#)**
 
-- [African Undersea Cables](https://manypossibilities.net/african-undersea-cables-interactive/)
-- [African Terrestrial Fibre Optic Infrastructure](https://afterfibre.nsrc.org/)
-- [Africa Bandwidth Maps](http://www.africabandwidthmaps.com/)
-- [Telegeography Interactive Submarine Cable Map](https://www.submarinecablemap.com/)
-- [Telegeography 2018 Submarine Cable Map](http://submarine-cable-map-2018.telegeography.com/)
+- [African Undersea Cables](https://manypossibilities.net/african-undersea-cables/) - Steve Song's map of African undersea fibre optic cables.
+- [African Terrestrial Fibre Optic Infrastructure](https://afterfibre.nsrc.org/) - Map of African terrestrial fibre networks, Creative Commons, Open Data.
+- [Africa Bandwidth Maps](http://www.africabandwidthmaps.com/) - Paul Hamilton's map of African terrestrial fibre and microwave networks.
+- [Telegeography Submarine Cable Map](https://www.submarinecablemap.com/) - Interactive submarine fibre optic cables.
+- [Telegeography 2018 Submarine Cable Map](http://submarine-cable-map-2018.telegeography.com/) - (2018) Online of submarine fibre optic cables also available for purchase.
 - [Greg's Cable Map](http://cablemap.info/)
-- [ITU Interactive Transmission Map](http://www.itu.int/itu-d/tnd-map-public/)
-- [GSMA Mobile Coverage Maps @ Mobile World Live](http://maps.mobileworldlive.com/)
-- [Hurricane Electric 3D map of undersea cables and HE POPs and routes](http://he.net/3d-map/)
-- [OECD - National Broadband Maps](http://www2.compareyourcountry.org/broadband)
+- [ITU Interactive Transmission Map](http://www.itu.int/itu-d/tnd-map-public/) - Online map of terrestrial fibre and microwave networks from ITU.
+- [GSMA Mobile Coverage Maps @ Mobile World Live](http://maps.mobileworldlive.com/) - Somewhat dated but still useful map of mobile network coverage on country by country basis.
+- [Hurricane Electric 3D map](http://he.net/3d-map/) -  Interactive 3D map of undersea cables and Hurrican Electric Points of Presence (POPs) and routes.
+- [OECD - National Broadband Maps](http://www2.compareyourcountry.org/broadband) - A map of national broadband maps for OECD countries.
 - [GSMA Mobile Network Coverage Maps](https://www.mobilecoveragemaps.com) - (2019) Most accurate mobile coverage maps available, currently covers Ghana, Nigeria, Rwanda, Uganda, Tanzania, and Zambia.
 
 ## Periodic Global Connectivity Reports

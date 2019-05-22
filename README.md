@@ -83,7 +83,7 @@ A list of connectivity indexes and reports to help you better under who has acce
 **[`^        back to top        ^`](#)**
 
 - [GSMA Mobile Economy - Sub-Saharan Africa](https://www.gsma.com/mobileeconomy/sub-saharan-africa/) (2018)
-- [GSMA Mobile Economy - West Africa](https://www.gsma.com/mobileeconomy/west-africa/) (2017)
+- [GSMA Mobile Economy - West Africa](https://www.gsma.com/r/mobileeconomy/west-africa/) (2019)
 - [African Telecommunications Infrastructure Development @manypossibilities.net](https://manypossibilities.net/series/africa-telecom-infrastructure/) (2017)
 - [GSMA Mobile Economy - Africa](https://www.gsma.com/mobileeconomy/africa/) (2016)
 - [Opera - State of the Mobile Web Africa](https://blogs.opera.com/news/wp-content/uploads/sites/2/2016/11/SMWAfrica-Opera-report-2016-01-WEB-1.pdf) - 2016.

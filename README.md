@@ -56,7 +56,7 @@ A list of connectivity indexes and reports to help you better under who has acce
 - [Hurricane Electric 3D map](http://he.net/3d-map/) -  Interactive 3D map of undersea cables and Hurrican Electric Points of Presence (POPs) and routes.
 - [OECD - Broadband Portal](https://www.oecd.org/sti/broadband/) - Various broadband statistics and indicators from the OECD.
 - [GSMA Mobile Network Coverage Maps](https://www.mobilecoveragemaps.com) - (2019) Most accurate mobile coverage maps available, currently covers Ghana, Nigeria, Rwanda, Uganda, Tanzania, and Zambia.
-- [nperf Mobile coverage maps](https://www.nperf.com/en/map)- mobile coverage based on data collected from [nperf app](https://www.nperf.com/en/nperf-applications/)
+- [nperf Mobile coverage maps](https://www.nperf.com/en/map) - mobile coverage based on data collected from [nperf app](https://www.nperf.com/en/nperf-applications/).
 
 ## Periodic Global Connectivity Reports
 

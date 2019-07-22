@@ -7,7 +7,7 @@
 
 # [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A list of connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms. All info in the public domain.
+A list of connectivity indexes, maps, and reports to help you better under who has access to communication infrastructure and on what terms. All info in the public domain.
 
 <sub>More on connectivity on my [website](https://manypossibilities.net) or on [twitter](https://twitter.com/stevesong).</sub>
 
@@ -54,7 +54,6 @@ A list of connectivity indexes and reports to help you better under who has acce
 - [ITU Interactive Transmission Map](http://www.itu.int/itu-d/tnd-map-public/) - Online map of terrestrial fibre and microwave networks from ITU.
 - [GSMA Mobile Coverage Maps @ Mobile World Live](http://maps.mobileworldlive.com/) - Somewhat dated but still useful map of mobile network coverage on country by country basis.
 - [Hurricane Electric 3D map](http://he.net/3d-map/) -  Interactive 3D map of undersea cables and Hurrican Electric Points of Presence (POPs) and routes.
-- [OECD - Broadband Portal](https://www.oecd.org/sti/broadband/) - Various broadband statistics and indicators from the OECD.
 - [GSMA Mobile Network Coverage Maps](https://www.mobilecoveragemaps.com) - (2019) Most accurate mobile coverage maps available, currently covers Ghana, Nigeria, Rwanda, Uganda, Tanzania, and Zambia.
 - [nperf Mobile coverage maps](https://www.nperf.com/en/map) - mobile coverage based on data collected from [nperf app](https://www.nperf.com/en/nperf-applications/).
 

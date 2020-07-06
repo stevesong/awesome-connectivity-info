@@ -78,6 +78,7 @@ A list of connectivity indexes, maps, and reports to help you better under who h
 - UN E-Government Survey [2018](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2018) [2016](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2016) - Global E–Government and E-Participation Development Index. 
 - [OECD Broadband Portal](https://www.oecd.org/internet/broadband/broadband-statistics/) - Latest data update: 9 July 2019.
 - [AfterAccess - Mobile & Internet Use in the Global South](http://afteraccess.net/wp-content/uploads/After-Access-Website-layout-r1.pdf) - Infographic highlights of nationally representative surveys of ICT access and use by households and individuals in the public domain in 16 developing countries of the Global South.
+- [ITU Measuring Digital Development - ICT Price Trends - 2019](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/prices2019/ITU_ICTpriceTrends_2019.pdf) - analysis and comparison of price data for mobile-voice services, mobile data and fixed broadband. Replaces the 'Measuring the Information Society Report'.
 
 
 ## Regional Connectivity Reports and Data

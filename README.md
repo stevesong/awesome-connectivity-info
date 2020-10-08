@@ -13,11 +13,14 @@ A list of connectivity indexes, maps, and reports to help you better under who h
 
 ## Contents
 
-- [Global Connectivity Indexes](#global-connectivity-indexes)
-- [Connectivity Maps](#connectivity-maps)
-- [Periodic Global Connectivity Reports](#periodic-global-connectivity-reports)
-- [Regional Connectivity Reports and Data](#regional-connectivity-reports-and-data)
-- [Other sources](#other-sources)
+- [![Awesome](https://awesome.re)](#awesomehttpsawesomerebadge-flatsvghttpsawesomere)
+  - [Contents](#contents)
+  - [Global Connectivity Indexes](#global-connectivity-indexes)
+  - [Connectivity Maps](#connectivity-maps)
+  - [Periodic Global Connectivity Reports](#periodic-global-connectivity-reports)
+  - [Regional Connectivity Reports and Data](#regional-connectivity-reports-and-data)
+  - [Other sources](#other-sources)
+  - [License](#license)
 
 <!-- BEGIN RESOURCE LIST -->
 
@@ -39,8 +42,8 @@ A list of connectivity indexes, maps, and reports to help you better under who h
 - [World Economic Forum - Networked Readiness Index](http://reports.weforum.org/global-information-technology-report-2016/networked-readiness-index/) - (2016).
 - [UN E-Government Knowledge Database](https://publicadministration.un.org/egovkb/en-us/Data-Center) - (2016).
 - [BCG e-Intensity Index](https://www.bcg.com/publications/interactives/bcg-e-intensity-index.aspx) - (2015) Index developed by Boston Consulting Group looking at the maturity of 85 Internet economies based on three vectors: Enablement, Engagement, and Expenditure.
-- [Speedtest Global Index](http://www.speedtest.net/global-index) - (2018) Index of mobile and fixed broadband speeds from around the world on a monthly basis. 
-- cable.co.uk's Worldwide Broadband Price Comparison - ([2019](https://www.cable.co.uk/broadband/speed/worldwide-speed-league/)) ([2018](https://www.cable.co.uk/broadband/pricing/worldwide-comparison/))  Index of broadband costs around the world based on fixed line/wireless access. 
+- [Speedtest Global Index](http://www.speedtest.net/global-index) - (2018) Index of mobile and fixed broadband speeds from around the world on a monthly basis.
+- cable.co.uk's Worldwide Broadband Price Comparison - ([2019](https://www.cable.co.uk/broadband/speed/worldwide-speed-league/)) ([2018](https://www.cable.co.uk/broadband/pricing/worldwide-comparison/))  Index of broadband costs around the world based on fixed line/wireless access.
 
 ## Connectivity Maps
 
@@ -85,8 +88,8 @@ A list of connectivity indexes, maps, and reports to help you better under who h
 
 **[`^        back to top        ^`](#)**
 
-- [GSMA Mobile Economy - West Africa](https://www.gsma.com/r/mobileeconomy/west-africa/) (2019)
-- [GSMA Mobile Economy - Sub-Saharan Africa](https://www.gsma.com/mobileeconomy/sub-saharan-africa/) (2018)
+- GSMA Mobile Economy - West Africa] ([2019](https://www.gsma.com/r/mobileeconomy/west-africa/)) ([2018](https://www.gsma.com/subsaharanafrica/wp-content/uploads/2018/11/2018-04-11-e568fe9e710ec776d82c04e9f6760adb.pdf))
+- GSMA Mobile Economy - Sub-Saharan Africa ([2020](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/09/GSMA_MobileEconomy2020_SSA_Eng.pdf)) ([2018](https://policy.communitynetworks.group/_media/gsma_mobile_economy-ssa_2018.pdf))
 - [GSMA Mobile Economy - Latin America](https://www.gsma.com/r/mobileeconomy/latam/) (2018)
 - [GSMA Mobile Economy - Asia Pacific](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/06/GSMA_MobileEconomy_2020_AsiaPacific.pdf) (2020)
 - [GSMA Mobile Economy - Africa](https://www.gsma.com/mobileeconomy/africa/) (2016)

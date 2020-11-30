@@ -28,6 +28,7 @@ A list of connectivity indexes, maps, and reports to help you better under who h
 
 **[`^        back to top        ^`](#)**
 
+- [ITU Measuring digital development: Facts and figures](https://www.itu.int/en/ITU-D/Statistics/Pages/facts/default.aspx) - (2020) Measuring digital development contains a snapshot of the most important ICT indicators, including estimates for the current year. 
 - [Network Readiness Index](https://networkreadinessindex.org/) - (2019) Network Readiness Index covering 121 economies from Portulans Institute
 - [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) - (2018) Measures countries against four enablers of mobile internet adoption: Infrastructure, Affordability, Consumer Readiness and Content.
 - [A4AI Affordability Drivers Index](http://a4ai.org/affordability-report/data/) - (2017) Index of internet affordability by the Alliance for Affordable Internet Access ([A4AI](https://a4ai.org)).

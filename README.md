@@ -88,7 +88,8 @@ A list of connectivity indexes, maps, and reports to help you better under who h
 
 **[`^        back to top        ^`](#)**
 
-- GSMA Mobile Economy - West Africa] ([2019](https://www.gsma.com/r/mobileeconomy/west-africa/)) ([2018](https://www.gsma.com/subsaharanafrica/wp-content/uploads/2018/11/2018-04-11-e568fe9e710ec776d82c04e9f6760adb.pdf))
+- [e-Conomy Africa 2020](https://www.ifc.org/wps/wcm/connect/publications_ext_content/ifc_external_publication_site/publications_listing_page/google-e-conomy): Africa’s $180 Billion Internet Economy Future - IFC/Google sponsored report on Africa's internet economic
+- GSMA Mobile Economy - West Africa ([2019](https://www.gsma.com/r/mobileeconomy/west-africa/)) ([2018](https://www.gsma.com/subsaharanafrica/wp-content/uploads/2018/11/2018-04-11-e568fe9e710ec776d82c04e9f6760adb.pdf))
 - GSMA Mobile Economy - Sub-Saharan Africa ([2020](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/09/GSMA_MobileEconomy2020_SSA_Eng.pdf)) ([2018](https://policy.communitynetworks.group/_media/gsma_mobile_economy-ssa_2018.pdf))
 - [GSMA Mobile Economy - Latin America](https://www.gsma.com/r/mobileeconomy/latam/) (2018)
 - [GSMA Mobile Economy - Asia Pacific](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/06/GSMA_MobileEconomy_2020_AsiaPacific.pdf) (2020)

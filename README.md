@@ -55,7 +55,6 @@ A list of connectivity indexes, maps, and reports to help you better under who h
 - [Africa Bandwidth Maps](http://www.africabandwidthmaps.com/) - Paul Hamilton's map of African terrestrial fibre and microwave networks.
 - [Telegeography Submarine Cable Map](https://www.submarinecablemap.com/) - Interactive submarine fibre optic cables.
 - [Telegeography 2018 Submarine Cable Map](http://submarine-cable-map-2018.telegeography.com/) - (2018) Online of submarine fibre optic cables also available for purchase.
-- [Greg's Cable Map](http://cablemap.info/)
 - [ITU Interactive Transmission Map](http://www.itu.int/itu-d/tnd-map-public/) - Online map of terrestrial fibre and microwave networks from ITU.
 - [GSMA Mobile Coverage Maps @ Mobile World Live](http://maps.mobileworldlive.com/) - Somewhat dated but still useful map of mobile network coverage on country by country basis.
 - [Hurricane Electric 3D map](http://he.net/3d-map/) -  Interactive 3D map of undersea cables and Hurrican Electric Points of Presence (POPs) and routes.
@@ -90,9 +89,9 @@ A list of connectivity indexes, maps, and reports to help you better under who h
 
 - [e-Conomy Africa 2020](https://www.ifc.org/wps/wcm/connect/publications_ext_content/ifc_external_publication_site/publications_listing_page/google-e-conomy): Africa’s $180 Billion Internet Economy Future - IFC/Google sponsored report on Africa's internet economy
 - GSMA Mobile Economy - West Africa ([2019](https://www.gsma.com/r/mobileeconomy/west-africa/)) ([2018](https://www.gsma.com/subsaharanafrica/wp-content/uploads/2018/11/2018-04-11-e568fe9e710ec776d82c04e9f6760adb.pdf))
-- GSMA Mobile Economy - Sub-Saharan Africa ([2020](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/09/GSMA_MobileEconomy2020_SSA_Eng.pdf)) ([2018](https://policy.communitynetworks.group/_media/gsma_mobile_economy-ssa_2018.pdf))
-- [GSMA Mobile Economy - Latin America](https://www.gsma.com/r/mobileeconomy/latam/) (2018)
-- [GSMA Mobile Economy - Asia Pacific](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/06/GSMA_MobileEconomy_2020_AsiaPacific.pdf) (2020)
+- GSMA Mobile Economy - Sub-Saharan Africa ([2021](https://www.gsma.com/mobileeconomy/wp-content/uploads/2021/09/GSMA_ME_SSA_2021_English_Web_Singles.pdf)) ([2020](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/09/GSMA_MobileEconomy2020_SSA_Eng.pdf)) ([2018](https://policy.communitynetworks.group/_media/gsma_mobile_economy-ssa_2018.pdf))
+- GSMA Mobile Economy - Latin America ([2021](https://www.gsma.com/mobileeconomy/wp-content/uploads/2021/11/GSMA_ME_LATAM_2021.pdf)) 
+- GSMA Mobile Economy - Asia Pacific ([2021](https://www.gsma.com/mobileeconomy/wp-content/uploads/2021/08/GSMA_ME_APAC_2021_Web_Singles.pdf)) [2020](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/06/GSMA_MobileEconomy_2020_AsiaPacific.pdf)
 - [GSMA Mobile Economy - Africa](https://www.gsma.com/mobileeconomy/africa/) (2016)
 - [African Telecommunications Infrastructure Development @manypossibilities.net](https://manypossibilities.net/series/africa-telecom-infrastructure/) (2019)
 - [RIA Africa Mobile Pricing (RAMP) Indices Portal](https://researchictafrica.net/ramp_indices_portal/) - (Q3 2018) Pricing information on Voice/SMS basket, 1GB data basket, and Value For Money bundles.

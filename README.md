@@ -57,7 +57,7 @@ A list of connectivity indexes, maps, and reports to help you better under who h
 - [ITU Interactive Transmission Map](http://www.itu.int/itu-d/tnd-map-public/) - Online map of terrestrial fibre and microwave networks from ITU.
 - [GSMA Mobile Coverage Maps @ Mobile World Live](http://maps.mobileworldlive.com/) - Somewhat dated but still useful map of mobile network coverage on country by country basis.
 - [Hurricane Electric 3D map](http://he.net/3d-map/) -  Interactive 3D map of undersea cables and Hurrican Electric Points of Presence (POPs) and routes.
-- [GSMA Mobile Network Coverage Maps](https://www.mobilecoveragemaps.com) - (2019) Most accurate mobile coverage maps available, currently covers Ghana, Nigeria, Rwanda, Uganda, Tanzania, and Zambia.
+- [GSMA Mobile Network Coverage Maps](https://www.mobilecoveragemaps.com) - Currently most accurate mobile coverage maps available, currently covers Benin, Burkina Faso, DRC, Congo Republic, Ghana, Guinea, Guinea-Bissau, Côte d'Ivoire, Lesotho, Liberia, Nigeria, Rwanda, Sierra Leone, South Sudan, Tanzania, Uganda, and Zambia.
 - [nperf Mobile coverage maps](https://www.nperf.com/en/map) - mobile coverage based on data collected from [nperf app](https://www.nperf.com/en/nperf-applications/).
 
 ## Periodic Global Connectivity Reports

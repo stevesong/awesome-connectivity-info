@@ -7,7 +7,7 @@
 
 # [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A list of connectivity indexes, maps, and reports to help you better under who has access to communication infrastructure and on what terms. All info in the public domain.
+A list of connectivity indexes, maps, and reports to help you better understand who has access to communication infrastructure and on what terms. All info in the public domain.
 
 <sub>More on connectivity on my [website](https://manypossibilities.net) or on [twitter](https://twitter.com/stevesong).</sub>
 

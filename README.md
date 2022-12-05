@@ -24,7 +24,7 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 
 <!-- BEGIN RESOURCE LIST -->
 
-## Global Connectivity Indexes 
+## Global Connectivity Indexes
 
 **[`^        back to top        ^`](#)**
 
@@ -91,7 +91,7 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 - GSMA Mobile Economy - Middle East & North Africa ([2022](https://www.gsma.com/mobileeconomy/wp-content/uploads/2022/05/GSMA_MENA_ME2022_R_WebSingles.pdf))
 - GSMA Mobile Economy - West Africa ([2019](https://www.gsma.com/r/mobileeconomy/west-africa/)) ([2018](https://www.gsma.com/subsaharanafrica/wp-content/uploads/2018/11/2018-04-11-e568fe9e710ec776d82c04e9f6760adb.pdf))
 - GSMA Mobile Economy - Sub-Saharan Africa ([2021](https://www.gsma.com/mobileeconomy/wp-content/uploads/2021/09/GSMA_ME_SSA_2021_English_Web_Singles.pdf)) ([2020](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/09/GSMA_MobileEconomy2020_SSA_Eng.pdf)) ([2018](https://policy.communitynetworks.group/_media/gsma_mobile_economy-ssa_2018.pdf))
-- GSMA Mobile Economy - Latin America ([2021](https://www.gsma.com/mobileeconomy/wp-content/uploads/2021/11/GSMA_ME_LATAM_2021.pdf)) 
+- GSMA Mobile Economy - Latin America ([2022](https://www.gsma.com/mobileeconomy/wp-content/uploads/2022/11/GSMA_LATAM_ME2022_R_Web.pdf)) ([2021](https://www.gsma.com/mobileeconomy/wp-content/uploads/2021/11/GSMA_ME_LATAM_2021.pdf))
 - GSMA Mobile Economy - Asia Pacific ([2021](https://www.gsma.com/mobileeconomy/wp-content/uploads/2021/08/GSMA_ME_APAC_2021_Web_Singles.pdf)) [2020](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/06/GSMA_MobileEconomy_2020_AsiaPacific.pdf)
 - GSMA Mobile Economy - Africa [2016](https://www.gsma.com/mobileeconomy/africa/) 
 - African Telecommunications Infrastructure Development @manypossibilities.net - [2014-2021](https://manypossibilities.net/series/africa-telecom-infrastructure/)

@@ -9,7 +9,7 @@
 
 A list of connectivity indexes, maps, and reports to help you better understand who has access to communication infrastructure and on what terms. All info in the public domain.
 
-<sub>More on connectivity on my [website](https://manypossibilities.net) or on [twitter](https://twitter.com/stevesong).</sub>
+<sub>More on connectivity on my [website](https://manypossibilities.net) or on <a rel="me" href="https://mastodon.cloud/@stevesong">Mastodon</a>.</sub>
 
 ## Contents
 
@@ -126,3 +126,4 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Steve Song](https://manypossibilities.net) has waived all copyright and related or neighbouring rights to this work.
+<a rel="me" href="https://mastodon.cloud/@stevesong">.</a>

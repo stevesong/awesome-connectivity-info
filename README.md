@@ -122,7 +122,7 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 - [CIESIN Earth Institute - High Resolution Settlement Layer GIS data](https://ciesin.columbia.edu/data/hrsl/) - HRSL datasets offering unprecedented accuracy in population mapping.
 - [Kleiner Perkins Mary Meeker Internet Trends Report](https://www.kleinerperkins.com/perspectives/internet-trends-report-2018/) - (May 2018) Trends that affect and drive internet uptake globally.
 - [WEF Internet for All](https://www.weforum.org/reports/internet-for-all-a-framework-for-accelerating-internet-access-and-adoption/) - (2016) A Framework for Accelerating Internet Access and Adoption.
-- [M-Lab Visualization Platform](https://www.measurementlab.net/visualizations/) - M-Lab is an open, verifiable measurement platform for global network performance. 
+- [M-Lab Global Network Diagnostic Tool](https://datastudio.google.com/s/r6ZnlTmHfwE) - M-Lab is an open, verifiable measurement platform for global network performance. 
 - [LTE, WiMAX, HSPA+, 3G, GSM information by country](https://www.worldtimezone.com/4g.html) - Reasonably up-to-date list of mobile networks around the world and their associated frequencies.
 - [Cisco Annual Internet Report (2018–2023) White Paper](https://www.cisco.com/c/en/us/solutions/collateral/executive-perspectives/annual-internet-report/white-paper-c11-741490.html) - Updated:February 28, 2020.
 - [IPinfo.io - Country Pages](https://ipinfo.io/countries) - Summary of country-level IP data covering top ASNs, important routers, city-level information, carrier IPs, and other IP data.

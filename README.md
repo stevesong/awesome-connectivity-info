@@ -42,7 +42,7 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 - [Internet World Stats](https://www.internetworldstats.com/) - Internet users compiled from Nielsen and ITU statistics.
 - [ITU ICT Development Index](https://www.itu.int/en/ITU-D/Statistics/Pages/IDI/default.aspx) - ([2024](https://www.itu.int/itu-d/reports/statistics/idi2024)) ([2023](https://www.itu.int/itu-d/reports/statistics/IDI2023/)) ([2017](http://www.itu.int/net4/ITU-D/idi/)) Composite index based on three pillars, ICT Access, ICT Use, and ICT Skills.
 - [World Economic Forum - Networked Readiness Index](http://reports.weforum.org/global-information-technology-report-2016/networked-readiness-index/) - (2016).
-- [UN E-Government Knowledge Database](https://publicadministration.un.org/egovkb/en-us/Data-Center) - (2016).
+- [UN E-Government Knowledge Database](https://publicadministration.un.org/egovkb/en-us/Data-Center) - (2024).
 - [Speedtest Global Index](https://www.speedtest.net/global-index) - (2022) Index of mobile and fixed broadband speeds from around the world on a monthly basis.
 - cable.co.uk's Worldwide Broadband Price Comparison - ([2023](https://www.cable.co.uk/mobiles/worldwide-data-pricing/2023/worldwide_mobile_data_pricing_data.xlsx)) ([2022](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)) ([2019](https://www.cable.co.uk/broadband/speed/worldwide-speed-league/)) ([2018](https://www.cable.co.uk/broadband/pricing/worldwide-comparison/))  Index of broadband costs around the world based on fixed line/wireless access.
 - [Internet Poverty Index](https://internetpoverty.io/) 2023 - The Internet Poverty Index from [World Data Lab.](https://worddatalab.com/) 

@@ -115,7 +115,6 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 - [SpeedChecker Insights](https://insights.speedchecker.com/) - Periodic country-level reports on mobile internet speeds, latency, and coverage
 - [Cloudflare Radar](https://radar.cloudflare.com/) - Invaluable resource on internet traffic, security, routing, outages, DNS, and more.
 - [GSMA - Enabling Rural Coverage](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/02/Enabling_Rural_Coverage_English_February_2018.pdf) - (Feb 2018) Regulatory and policy recommendations to foster mobile broadband coverage in developing countries.
-- [Facebook Audience Insights](https://www.facebook.com/ads/audience-insights/) - Demographic information on Facebook usage.
 - [SimilarWeb - Mobile App Ranking](https://www.similarweb.com/apps/top/google/app-index/us/all/top-free) - Ranking of popular mobile apps across countries.
 - [Global Stats by StatCounter](http://gs.statcounter.com/) - Browser market share over time by browser, region, OS.
 - [Global Mobile Suppliers Association](https://gsacom.com/) - Various reports on LTE and 5G adoption.

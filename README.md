@@ -53,7 +53,7 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 
 - [African Undersea Cables](https://manypossibilities.net/african-undersea-cables/) - Steve Song's map of African undersea fibre optic cables.
 - [African Terrestrial Fibre Optic Infrastructure](https://afterfibre.nsrc.org/) - Map of African terrestrial fibre networks, Creative Commons, Open Data.
-- [Global CDN Infrastructure Map](https://opentelecomdata.org/cdns/) - Steve Song's open data map of Content Distribution Networks around the world.
+- [Global CDN Infrastructure Map](https://opentelecomdata.org/cdns/) - Steve Song's open data map of Content Distribution Networks around the world (May 2024).
 - [Africa Telecoms Map 2024](https://africa-map-2024.telegeography.com/) - Telegeography's 2024 map of African telecoms including undersea cables, international bandwidth, and cloud data centres.
 - [Africa Bandwidth Maps](http://www.africabandwidthmaps.com/) - Paul Hamilton's map of African terrestrial fibre and microwave networks.
 - [Telegeography Submarine Cable Map](https://www.submarinecablemap.com/) - Interactive submarine fibre optic cables.

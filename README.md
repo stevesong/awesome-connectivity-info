@@ -40,7 +40,7 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 - [ITU Broadband Atlas](https://www.itu.int/ITU-D/treg/atlas/broadbandatlas.asp) - (2010) Interactive infographic tool showcasing the status of broadband deployment worldwide and the regulatory landscape for broadband.
 - [InternetLiveStats](http://www.internetlivestats.com/internet-users-by-country/) - (2016) Internet Users by Country, interpolated from ITU, United Nations Population Division, Internet & Mobile Association of India (IAMAI), and World Bank data.
 - [Internet World Stats](https://www.internetworldstats.com/) - Internet users compiled from Nielsen and ITU statistics.
-- [ITU ICT Development Index](http://www.itu.int/net4/ITU-D/idi/) - (2017) Composite index based on three pillars, ICT Access, ICT Use, and ICT Skills.
+- [ITU ICT Development Index](https://www.itu.int/en/ITU-D/Statistics/Pages/IDI/default.aspx) - ([2024](https://www.itu.int/itu-d/reports/statistics/idi2024)) ([2023](https://www.itu.int/itu-d/reports/statistics/IDI2023/)) ([2017](http://www.itu.int/net4/ITU-D/idi/)) Composite index based on three pillars, ICT Access, ICT Use, and ICT Skills.
 - [World Economic Forum - Networked Readiness Index](http://reports.weforum.org/global-information-technology-report-2016/networked-readiness-index/) - (2016).
 - [UN E-Government Knowledge Database](https://publicadministration.un.org/egovkb/en-us/Data-Center) - (2016).
 - [Speedtest Global Index](https://www.speedtest.net/global-index) - (2022) Index of mobile and fixed broadband speeds from around the world on a monthly basis.

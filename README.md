@@ -118,7 +118,7 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 - [SimilarWeb - Mobile App Ranking](https://www.similarweb.com/apps/top/google/app-index/us/all/top-free) - Ranking of popular mobile apps across countries.
 - [Global Stats by StatCounter](http://gs.statcounter.com/) - Browser market share over time by browser, region, OS.
 - [Global Mobile Suppliers Association](https://gsacom.com/) - Various reports on LTE and 5G adoption.
-- [CIESIN Earth Institute - High Resolution Settlement Layer GIS data](https://ciesin.columbia.edu/data/hrsl/) - HRSL datasets offering unprecedented accuracy in population mapping.
+- [Continent of Africa: High Resolution Population Density Maps](https://data.humdata.org/dataset/highresolutionpopulationdensitymaps) by Meta - HRSL datasets offering unprecedented accuracy in population mapping.
 - [Kleiner Perkins Mary Meeker Internet Trends Report](https://www.kleinerperkins.com/perspectives/internet-trends-report-2018/) - (May 2018) Trends that affect and drive internet uptake globally.
 - [WEF Internet for All](https://www.weforum.org/reports/internet-for-all-a-framework-for-accelerating-internet-access-and-adoption/) - (2016) A Framework for Accelerating Internet Access and Adoption.
 - [M-Lab Global Network Diagnostic Tool](https://datastudio.google.com/s/r6ZnlTmHfwE) - M-Lab is an open, verifiable measurement platform for global network performance. 

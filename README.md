@@ -67,6 +67,7 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 - [GSMA Mobile Network Coverage Maps](https://www.mobilecoveragemaps.com) - Taken offline in April 2024.
 - [nperf Mobile coverage maps](https://www.nperf.com/en/map) - mobile coverage based on data collected from [nperf app](https://www.nperf.com/en/nperf-applications/).
 - [ITU Disaster Connectivity Map](https://dcm.itu.int/) - a map to assist disaster first responders in determining the status of telecommunications network infrastructure, coverage, and performance.
+- [Ookla Data for Good](https://www.ookla.com/ookla-for-good/open-data) - Ookla maintain an open dataset and map of results from their Speedtest Global index.
 
 ## Periodic Global Connectivity Reports
 

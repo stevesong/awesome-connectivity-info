@@ -1,0 +1,413 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"freqData",
+				"freqDataBand"
+			],
+			[
+				"newcountry",
+				"newCountryISO"
+			],
+			[
+				"newCountr",
+				"newCountryID"
+			],
+			[
+				"f",
+				"f\tAnonymous Function"
+			],
+			[
+				"datetime",
+				"datetime_object"
+			],
+			[
+				"font",
+				"font-style\tproperty"
+			],
+			[
+				"guardE",
+				"guardEnd900"
+			],
+			[
+				"guardStart",
+				"guardStart900"
+			],
+			[
+				"sumSpec",
+				"sumSpec1800"
+			],
+			[
+				"c",
+				"classed"
+			],
+			[
+				"tot",
+				"totSpec"
+			],
+			[
+				"h",
+				"h"
+			],
+			[
+				"fre",
+				"freqStart"
+			],
+			[
+				"x",
+				"axis--x"
+			],
+			[
+				"bar",
+				"barHeight"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"cartodb",
+				"cartodb_id"
+			],
+			[
+				"map",
+				"map_object"
+			],
+			[
+				"type",
+				"type"
+			],
+			[
+				"af_",
+				"af_organisation"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 372.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Pandoc"
+			],
+			[
+				"Package Co",
+				"Package Control: Install Package"
+			],
+			[
+				"table",
+				"Table Editor: Disable for current view"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: git",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 701.0
+	},
+	"console":
+	{
+		"height": 311.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/tmp/mozilla_steve0/test message.eml",
+		"/home/steve/.cache/.fr-fjIWsd/google.com!manypossibilities.net!1607212800!1607299199.xml",
+		"/home/steve/.config/sublime-text-3/Packages/UnusedCssFinder/UnusedCssFinder.sublime-settings",
+		"/home/steve/Documents/OpenSpectrum/spectrum-assignments/spectrum-chart/d3-textwrap.js",
+		"/home/steve/Documents/OpenSpectrum/spectrum-assignments/spectrum-chart/csv/bands.csv",
+		"/home/steve/Documents/OpenSpectrum/spectrum-assignments/spectrum-chart/byCountry.js",
+		"/tmp/mozilla_steve0/Encrypted Headers.txt",
+		"/tmp/mozilla_steve0/backup-codes.txt",
+		"/home/steve/Documents/OpenSpectrum/spectrum-assignments/.gitignore",
+		"/home/steve/.config/sublime-merge/Packages/User/Commit Message.sublime-settings",
+		"/home/steve/.config/sublime-merge/Packages/User/Preferences.sublime-settings",
+		"/home/steve/Documents/OpenSpectrum/spectrum-assignments/spectrum-chart/csv/country.csv",
+		"/home/steve/.config/sublime-text-3/Packages/User/.jsbeautifyrc",
+		"/home/steve/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/home/steve/Documents/OpenSpectrum/spectrum-assignments/spectrum-chart/sftp-config.json",
+		"/home/steve/.config/sublime-text-3/Packages/User/sftp_servers/open-spectrum",
+		"/home/steve/ecofinagency.csv",
+		"/home/steve/ecofinagency_scrapr.py",
+		"/home/steve/agenceUpdate.csv",
+		"/home/steve/commsupdate_scrapr.py",
+		"/home/steve/Documents/OpenTelecomData/Facebook_FNA_2019.tsv",
+		"/home/steve/Documents/Organisations/NSRC/AfricanTelecomReview/2019/Undersea_Africa_2019.csv",
+		"/tmp/report.csv",
+		"/home/steve/Documents/Organisations/NSRC/AfricanTelecomReview/2019/Undersea_Africa_2019.json",
+		"/home/steve/Documents/Understorey/invoice-ninja/Customers2.csv",
+		"/home/steve/Documents/Understorey/invoice-ninja/Customers.csv",
+		"/tmp/zumi.html",
+		"/home/steve/onetab_backup_23dec2019.txt",
+		"/home/steve/Documents/AfTerFibre/AfTerFibre-QGIS/OpenCellID/cell_towers_India_LTE_Dec2019.csv",
+		"/home/steve/Documents/AfTerFibre/AfTerFibre-QGIS/OpenCellID/india_operators_mcc_rules.csv",
+		"/home/steve/Documents/AfTerFibre/AfTerFibre-QGIS/OpenCellID/india_op_parse.py",
+		"/home/steve/Things I've Done",
+		"/home/steve/Documents/Organisations/WorldBank/Cabo_Verde/cabo_verde_stats.md",
+		"/home/steve/Documents/Organisations/WorldBank/Palestine/Palestine_stats.md",
+		"/home/steve/.cache/.fr-vVQ8Us/articleDateExtractor/__init__.py",
+		"/home/steve/Documents/Organisations/NSRC/AfricanTelecomReview/2019/pinboard_2019_export.json",
+		"/home/steve/Documents/AfTerFibre/AfTerFibre-QGIS/OpenCellID/india_operators_mcc.csv",
+		"/home/steve/Documents/AfTerFibre/AfTerFibre-QGIS/OpenCellID/cell_towers_India_Dec2019.csv",
+		"/home/steve/Documents/Reclaiming_the_Telecommons/India/agenda_html5.html",
+		"/home/steve/Documents/awesome-connectivity-info/README.md",
+		"/home/steve/.todo-txt/todo.txt",
+		"/home/steve/Documents/Reclaiming_the_Telecommons/India/agenda_markdown.md",
+		"/tmp/Tord Lundstrom.vcf",
+		"/home/steve/Documents/Reclaiming_the_Telecommons/India/speakers_emails.txt",
+		"/home/steve/Documents/Reclaiming_the_Telecommons/India/speakers_tito.csv",
+		"/home/steve/Documents/Reclaiming_the_Telecommons/India/speakers.csv",
+		"/home/steve/Documents/Reclaiming_the_Telecommons/India/agenda.html",
+		"/home/steve/Documents/Reclaiming_the_Telecommons/country-wiki/country-template-br.txt",
+		"/tmp/mozilla_steve0/publickey.stevesong@protonmail.ch-1.asc",
+		"/tmp/tmp-ihe.xpi",
+		"/tmp/mozilla_steve0/Attached Message Part",
+		"/tmp/mozilla_steve0/publickey.stevesong@protonmail.ch.asc",
+		"/tmp/pgpkeys.asc",
+		"/home/steve/Documents/Personal/tabs/guitar/Martin_Stephenson/boat_to_bolivia.tab",
+		"/home/steve/Documents/Personal/tabs/guitar/Martin_Stephenson/crocodile_cryer.tab",
+		"/home/steve/Documents/Personal/tabs/guitar/Elvis_Costello/The_Big_Light.crd",
+		"/home/steve/Documents/Personal/tabs/guitar/Elvis_Costello/mystery_dance.tab",
+		"/home/steve/Documents/Personal/tabs/guitar/Elvis_Costello/alison.tab",
+		"/home/steve/Documents/Personal/tabs/guitar/Squirrel_Nut_Zippers/got_my_own_thing_now.crd",
+		"/home/steve/Documents/Personal/tabs/guitar/Squirrel_Nut_Zippers/hell.crd",
+		"/tmp/steve.asc",
+		"/home/steve/onetab_backup_6nov2019.txt",
+		"/tmp/mozilla_steve0/CommunityNetwork-f1f39d5dd586.json",
+		"/home/steve/Documents/AfTerFibre/carto-python/carto-python.py",
+		"/tmp/mozilla_steve0/sanne.gpg",
+		"/tmp/mozilla_steve0/signature.asc",
+		"/home/steve/Documents/B4SS/GIS/CTRC-broadband-map/kml/Non5010Hex.TXT",
+		"/home/steve/Documents/B4SS/GIS/CTRC-broadband-map/mapinfo/NonLTERtesRds.TXT",
+		"/home/steve/Documents/B4SS/GIS/CTRC-broadband-map/mapinfo/HexNonLTE.TXT",
+		"/tmp/mozilla_steve0/Last Mile Connectivity Guidelines.eml",
+		"//home/steve/Documents/Personal/tabs/guitar/stray_cat_strut_tab.txt",
+		"/home/steve/onetab_backup_4oct2019.txt",
+		"/home/steve/onetab_backup_26aug2019.txt",
+		"/home/steve/Documents/B4SS/GIS/ISED_Tier5/changelog.txt",
+		"/tmp/rti.csv",
+		"/home/steve/.cache/.fr-p5Xbsa/mapsvg/mapsvg.php",
+		"/tmp/CD.tsv",
+		"/home/steve/.cache/.fr-RFZsca/readme.txt",
+		"/home/steve/Documents/AfTerFibre/AfTerFibre-QGIS/OpenCellID/cell_mnc_merge.py",
+		"/home/steve/Documents/OpenSpectrum/spectrum-assignments/spectrum-chart/spectrum-chart.css",
+		"/home/steve/Documents/AfTerFibre/AfTerFibre-QGIS/OpenCellID/east_africa_cell_towers_annotated.csv",
+		"/home/steve/.cache/.fr-zW1xmW/mapsvg/mapsvg.php",
+		"/home/steve/Documents/AfTerFibre/AfTerFibre-QGIS/OpenCellID/mcc-mnc.csv",
+		"/home/steve/Documents/AfTerFibre/AfTerFibre-QGIS/OpenCellID/cell_mnc_merge2.py",
+		"/home/steve/Documents/AfTerFibre/AfTerFibre-QGIS/OpenCellID/merged.csv",
+		"/home/steve/Documents/AfTerFibre/AfTerFibre-QGIS/OpenCellID/east_africa_cell_towers_1.csv",
+		"/home/steve/Documents/AfTerFibre/AfTerFibre-QGIS/OpenCellID/east_africa_cell_towers.csv",
+		"/home/steve/Documents/AfTerFibre/AfTerFibre-QGIS/OpenCellID/mcc-mnc.tsv",
+		"/home/steve/Documents/AfTerFibre/WorldBank/Uganda/cell_towers_Uganda_Aug2019.csv",
+		"/home/steve/Desktop/free-mobile-Internet.txt",
+		"/home/steve/Documents/AfTerFibre/WorldBank/Uganda/GPS Coordinates of Connected Campuses.csv",
+		"/tmp/invite.ics",
+		"/tmp/midi2hydrogen.pl",
+		"/home/steve/Documents/AfTerFibre/maps/kml/Algeria/Algerie_Telecom/Algerie_Telecom_old.geojson",
+		"/home/steve/Documents/AfTerFibre/maps/kml/Algeria/Algerie_Telecom/Algerie_Telecom2.geojson",
+		"/home/steve/Documents/Personal/kilo-editor/kilo.c",
+		"/home/steve/Documents/AfTerFibre/carto-python/tmp.geojson",
+		"/home/steve/Documents/AfTerFibre/maps/kml/Uganda/Liquid_Telecom_Uganda.kml",
+		"/home/steve/Documents/AfTerFibre/nsrc-afterfibre/index.html",
+		"/home/steve/Documents/AfTerFibre/carto-python/tmp.txt",
+		"/home/steve/.cache/.fr-x8jLn9/a-readme-first.txt",
+		"/home/steve/Documents/AfTerFibre/PoPs/Africa_PoPs_2019.csv",
+		"/home/steve/Documents/AfTerFibre/PoPs/Africa_PoPs_11Aug2019.csv",
+		"/home/steve/.cache/.fr-bjgTDZ/mapsvg/mapsvg.php",
+		"/home/steve/Downloads/Elementary.S07E12.iNTERNAL.480p.x264-mSD[eztv].srt",
+		"/home/steve/onetab_backup_7aug2019.txt",
+		"/home/steve/Documents/Personal/kilo-editor/Makefile",
+		"/home/steve/Documents/AfTerFibre/maps/kml/Chad/SUDATCHAD.geojson",
+		"/home/steve/.cache/.fr-uNJd7j/mapsvg/mapsvg.php",
+		"/home/steve/onetab_backup_18july2019.txt",
+		"/home/steve/onetab_backup_29jun2019.txt",
+		"/home/steve/.cache/.fr-B3Y0Rs/mapsvg/mapsvg.php",
+		"/home/steve/Downloads/Risk 2016/ECLiPSE.txt",
+		"/home/steve/OneTab_Backup_4june2019.txt",
+		"/home/steve/bit30",
+		"/tmp/spectrum-chart.css",
+		"/tmp/mypage.html",
+		"/home/steve/.cache/.fr-zYLkQE/mapsvg/mapsvg.php",
+		"/home/steve/Documents/OpenSpectrum/nuxtjs-sqlite3/api/index.js",
+		"/tmp/Mwesigwa Felician.vcf",
+		"/tmp/Peter Ulanga.vcf",
+		"/home/steve/OneTab_Backup_9may2019.txt",
+		"/home/steve/Documents/Reclaiming_the_Telecommons/Country_Profiles/ismbands.csv",
+		"/tmp/countryprofile_edit.csv",
+		"/tmp/countryprofile2.csv",
+		"/tmp/countryprofile.struct.json",
+		"/home/steve/Documents/Reclaiming_the_Telecommons/Country_Profiles/countries-dropdown.csv",
+		"/home/steve/Documents/OpenSpectrum/nuxtjs-sqlite3/pages/index.vue"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Makefile/Make.sublime-build",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
